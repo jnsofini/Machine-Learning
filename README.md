@@ -1,2 +1,2 @@
-# PCA-Regression-Tasks
-An implementation of PCA in regression problems using Python
+# Regression-Tasks
+An implementation of regression problems using Python
