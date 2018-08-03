@@ -1,0 +1,483 @@
+REGION,PROV_CODE,PROV_NAME,DIST_CODE,DIST_NAME,INC_DATE,INC_TYPE,Persons_killed,Persons_injured,Individuals_affected,Families_affected,Houses_damaged,Houses_destroyed
+#adm1 +name +en,#adm2 +code,#adm2 +name +en,#adm3 +code,#adm3 +name +en,#cause +date,#cause +type,#affected +killed +num,#affected +injured +num,#affected +individual +num,#affected +family +num,#damaged+houses+num,#destroyed+houses+num
+Eastern,13,Kunar,1303,Narang,2017-01-04,Flood / flash flood,0,0,7,1,1,0
+Eastern,13,Kunar,1305,Marawara,2017-01-04,Flood / flash flood,0,0,10,1,1,0
+Eastern,13,Kunar,1314,Nurgal,2017-01-04,Flood / flash flood,0,0,28,4,3,1
+Eastern,13,Kunar,1301,Asadabad,2017-01-04,Flood / flash flood,0,0,56,8,7,1
+Eastern,13,Kunar,1304,Sarkani,2017-01-04,Flood / flash flood,0,0,7,1,0,1
+Southern,32,Hilmand,3201,Lashkargah,2017-01-14,Flood / flash flood,0,0,77,8,5,3
+Southern,33,Kandahar,3301,Kandahar,2017-01-14,Flood / flash flood,0,0,28,3,3,0
+Western,31,Farah,3101,Farah,2017-01-15,Flood / flash flood,0,0,119,19,9,0
+Western,31,Farah,3104,khak-e-Safed,2017-01-16,Flood / flash flood,0,0,0,0,0,0
+Central Highland,10,Bamyan,1003,Yakawlang,2017-01-17,Landslide / mudflow,0,0,13,2,0,2
+Southern,24,Zabul,2401,Qalat,2017-01-20,Heavy snowfall,0,0,4025,575,0,0
+Eastern,6,Nangarhar,603,Surkhrod,2017-01-22,Flood / flash flood,6,4,10,3,0,3
+Southern,33,Kandahar,3301,Kandahar,2017-01-22,Flood / flash flood,0,0,164,20,10,10
+Southern,33,Kandahar,3305,Daman,2017-01-23,Flood / flash flood,0,0,62,8,0,8
+Southern,24,Zabul,2401,Qalat,2017-01-23,Flood / flash flood,0,0,218,33,33,0
+Eastern,7,Laghman,701,Mehtarlam,2017-01-25,Flood / flash flood,0,0,11,1,1,0
+Eastern,7,Laghman,701,Mehtarlam,2017-01-25,Flood / flash flood,0,0,9,1,1,0
+Central Highland,10,Bamyan,1001,Bamyan,2017-01-25,Avalanche,0,0,0,0,0,0
+South Eastern,11,Ghazni,1118,Gelan,2017-01-28,Heavy snowfall,2,0,14,2,0,0
+Eastern,13,Kunar,1307,Dara-e-Pech,2017-01-29,Flood / flash flood,0,0,35,5,5,0
+Eastern,13,Kunar,1301,Asadabad,2017-01-29,Flood / flash flood,0,0,21,3,3,0
+Eastern,13,Kunar,1314,Nurgal,2017-01-29,Flood / flash flood,0,0,18,2,2,0
+Eastern,13,Kunar,1301,Asadabad,2017-01-29,Flood / flash flood,0,0,23,3,3,0
+Eastern,13,Kunar,1302,Watapur,2017-01-29,Flood / flash flood,0,0,21,3,3,0
+Northern,28,Faryab,2807,Kohestan,2017-01-29,Heavy snowfall,0,0,0,0,0,0
+North Eastern,15,Badakhshan,1506,Raghestan,2017-01-30,Avalanche,1,6,56,8,0,2
+Western,29,Badghis,2901,Qala-e-Naw,2017-01-30,Avalanche,0,0,32,4,4,0
+Central Highland,10,Bamyan,1003,Yakawlang,2017-02-02,Avalanche,3,0,3,0,0,0
+Western,21,Ghor,2108,Lal Wa Sarjangal,2017-02-02,Avalanche,1,0,7,1,0,1
+Western,21,Ghor,2101,Chaghcharan,2017-02-02,Heavy snowfall,0,0,0,0,0,0
+Central Highland,10,Bamyan,1004,Panjab,2017-02-03,Flood / flash flood,0,0,7,1,0,0
+Central Highland,10,Bamyan,1004,Panjab,2017-02-03,Flood / flash flood,0,0,0,0,0,0
+Central Highland,10,Bamyan,1004,Panjab,2017-02-03,Flood / flash flood,0,0,14,2,0,0
+Central Highland,10,Bamyan,1004,Panjab,2017-02-03,Flood / flash flood,0,0,7,1,0,0
+Central Highland,10,Bamyan,1004,Panjab,2017-02-03,Flood / flash flood,0,0,7,1,0,0
+Central Highland,10,Bamyan,1004,Panjab,2017-02-03,Flood / flash flood,0,0,70,10,0,0
+Central Highland,10,Bamyan,1007,Waras,2017-02-03,Flood / flash flood,0,0,7,1,0,0
+Central Highland,10,Bamyan,1007,Waras,2017-02-03,Flood / flash flood,0,0,7,1,0,0
+Central Highland,22,Daykundi,2203,Khadir,2017-02-03,Avalanche,0,0,0,0,0,0
+Southern,32,Hilmand,3211,Baghran,2017-02-03,Avalanche,0,0,0,0,0,0
+Central Highland,10,Bamyan,1007,Waras,2017-02-03,Flood / flash flood,0,0,7,1,0,0
+Central Highland,10,Bamyan,1007,Waras,2017-02-03,Flood / flash flood,0,0,7,1,0,0
+Central Highland,10,Bamyan,1007,Waras,2017-02-03,Flood / flash flood,0,0,7,1,0,0
+North Eastern,15,Badakhshan,1507,Yawan,2017-02-03,Avalanche,0,0,0,0,0,0
+Central Highland,10,Bamyan,1007,Waras,2017-02-03,Flood / flash flood,0,0,7,1,0,0
+North Eastern,15,Badakhshan,1515,Darwaz-e-Balla,2017-02-03,Avalanche,10,12,371,53,10,15
+Central Highland,10,Bamyan,1007,Waras,2017-02-03,Flood / flash flood,0,0,7,1,0,0
+Central Highland,10,Bamyan,1004,Panjab,2017-02-03,Flood / flash flood,0,0,7,1,0,0
+Central Highland,10,Bamyan,1004,Panjab,2017-02-03,Flood / flash flood,0,0,5,1,1,0
+Central Highland,10,Bamyan,1007,Waras,2017-02-03,Flood / flash flood,0,0,35,5,0,0
+Central Highland,10,Bamyan,1004,Panjab,2017-02-03,Flood / flash flood,0,0,7,1,0,0
+Central Highland,10,Bamyan,1004,Panjab,2017-02-03,Flood / flash flood,0,0,14,2,0,0
+Central Highland,10,Bamyan,1004,Panjab,2017-02-03,Flood / flash flood,0,0,14,2,0,0
+Eastern,6,Nangarhar,613,Dehbala,2017-02-04,Flood / flash flood,0,0,204,30,29,1
+Eastern,13,Kunar,1308,Chawkay,2017-02-04,Flood / flash flood,0,0,55,9,8,1
+Eastern,6,Nangarhar,618,Shinwar,2017-02-04,Flood / flash flood,1,6,49,6,4,2
+Eastern,6,Nangarhar,610,Hesarak,2017-02-04,Heavy snowfall,0,0,245,32,32,0
+South Eastern,26,Khost,2607,Gurbuz,2017-02-04,Flood / flash flood,3,3,7,1,0,1
+Southern,33,Kandahar,3308,Maywand,2017-02-04,Flood / flash flood,0,0,382,49,49,0
+Southern,33,Kandahar,3311,Spinboldak,2017-02-04,Flood / flash flood,0,0,93,13,13,0
+South Eastern,26,Khost,2605,Mandozayi,2017-02-04,Flood / flash flood,0,0,70,10,2,8
+Southern,33,Kandahar,3305,Daman,2017-02-04,Flood / flash flood,0,0,219,31,0,0
+Southern,33,Kandahar,3301,Kandahar,2017-02-04,Flood / flash flood,0,0,150,31,0,31
+Southern,32,Hilmand,3201,Lashkargah,2017-02-04,Flood / flash flood,0,0,169,21,21,0
+South Eastern,26,Khost,2606,Tani,2017-02-04,Flood / flash flood,0,0,35,5,0,5
+Eastern,6,Nangarhar,617,Achin,2017-02-04,Flood / flash flood,0,0,30,5,4,1
+Eastern,6,Nangarhar,604,Khogyani,2017-02-04,Flood / flash flood,0,0,33,6,6,0
+South Eastern,12,Paktya,1206,Zadran,2017-02-04,Heavy snowfall,0,0,77,11,8,11
+South Eastern,25,Paktika,2514,Wormamay,2017-02-04,Heavy snowfall,4,12,210,30,0,30
+Central Highland,22,Daykundi,2209,Miramor,2017-02-04,Avalanche,0,0,14,2,0,0
+Eastern,6,Nangarhar,606,Rodat,2017-02-04,Flood / flash flood,0,3,330,44,38,6
+Eastern,6,Nangarhar,612,Pachieragam,2017-02-04,Flood / flash flood,0,0,41,6,4,2
+Eastern,6,Nangarhar,602,Behsud,2017-02-04,Flood / flash flood,0,1,21,3,3,0
+South Eastern,25,Paktika,2519,Turwo (Tarwe),2017-02-04,Heavy snowfall,0,9,140,20,0,20
+Eastern,13,Kunar,1310,Dangam,2017-02-04,Flood / flash flood,0,0,79,14,12,2
+Northern,18,Balkh,1802,Nahr-e-Shahi,2017-02-04,Flood / flash flood,0,0,0,0,3,0
+Eastern,6,Nangarhar,611,Sherzad,2017-02-04,Flood / flash flood,0,0,7,1,1,0
+Eastern,6,Nangarhar,605,Chaparhar,2017-02-04,Flood / flash flood,0,0,14,2,0,2
+South Eastern,12,Paktya,1207,Lija Ahmad Khel,2017-02-04,Heavy snowfall,0,0,77,11,5,11
+South Eastern,12,Paktya,1209,Janikhel,2017-02-04,Heavy snowfall,0,0,182,26,0,26
+Eastern,6,Nangarhar,603,Surkhrod,2017-02-04,Flood / flash flood,0,0,19,3,3,0
+Eastern,7,Laghman,701,Mehtarlam,2017-02-04,Flood / flash flood,0,0,129,20,15,5
+Western,21,Ghor,2108,Lal Wa Sarjangal,2017-02-04,Heavy snowfall,0,0,0,0,0,0
+Western,21,Ghor,2106,Taywarah,2017-02-04,Heavy snowfall,0,0,0,0,0,0
+Western,21,Ghor,2109,Tolak,2017-02-04,Heavy snowfall,0,0,0,0,0,0
+Western,21,Ghor,2107,Pasaband,2017-02-04,Heavy snowfall,0,0,0,0,0,0
+South Eastern,25,Paktika,2513,Wazakhah,2017-02-04,Heavy snowfall,0,0,126,18,0,18
+South Eastern,11,Ghazni,1101,Ghazni,2017-02-04,Heavy snowfall,0,0,70,10,25,2
+Western,21,Ghor,2104,Dawlatyar,2017-02-04,Heavy snowfall,0,0,0,0,0,0
+Western,21,Ghor,2110,Saghar,2017-02-04,Avalanche,0,0,0,0,0,0
+Western,30,Hirat,3012,Obe,2017-02-04,Flood / flash flood,0,0,42,6,2,4
+Western,30,Hirat,3010,Adraskan,2017-02-04,Flood / flash flood,3,0,21,3,0,0
+South Eastern,11,Ghazni,1113,Jaghuri,2017-02-04,Heavy snowfall,5,0,63,9,2,2
+Western,30,Hirat,3005,Guzara,2017-02-04,Flood / flash flood,0,0,35,5,3,2
+Western,21,Ghor,2101,Chaghcharan,2017-02-04,Heavy snowfall,0,0,0,0,0,0
+Western,21,Ghor,2101,Chaghcharan,2017-02-04,Heavy snowfall,0,0,0,0,0,0
+Western,21,Ghor,2101,Chaghcharan,2017-02-04,Avalanche,0,0,0,0,0,0
+Eastern,7,Laghman,705,Dawlatshah,2017-02-04,Flood / flash flood,0,0,200,32,32,0
+Western,31,Farah,3107,Shibkoh,2017-02-04,Heavy snowfall,0,0,0,0,0,0
+South Eastern,12,Paktya,1210,Chamkani,2017-02-04,Heavy snowfall,0,0,70,10,0,10
+Western,31,Farah,3108,Lash-e-Juwayn,2017-02-04,Heavy snowfall,0,0,0,0,0,0
+Eastern,7,Laghman,702,Alishang,2017-02-04,Flood / flash flood,0,0,31,5,5,0
+Eastern,7,Laghman,703,Qarghayi,2017-02-04,Flood / flash flood,3,2,15,2,1,1
+Eastern,7,Laghman,704,Alingar,2017-02-04,Flood / flash flood,0,0,154,23,20,3
+South Eastern,12,Paktya,1201,Gardez,2017-02-04,Heavy snowfall,0,0,77,11,0,11
+South Eastern,25,Paktika,2518,Dila,2017-02-04,Heavy snowfall,0,11,175,25,0,25
+Western,29,Badghis,2903,Abkamari,2017-02-04,Heavy snowfall,0,0,0,0,0,0
+South Eastern,12,Paktya,1202,Sayedkaram,2017-02-04,Heavy snowfall,0,0,7,1,0,1
+South Eastern,12,Paktya,1208,Alikhel (Jaji),2017-02-04,Heavy snowfall,0,0,147,21,0,21
+Western,29,Badghis,2903,Abkamari,2017-02-04,Heavy snowfall,3,1,7,1,0,1
+Eastern,13,Kunar,1314,Nurgal,2017-02-04,Flood / flash flood,0,0,47,9,6,0
+Eastern,13,Kunar,1303,Narang,2017-02-04,Flood / flash flood,0,0,49,7,6,1
+Capital,3,Parwan,301,Charikar,2017-02-04,Heavy snowfall,0,0,119,17,11,6
+Eastern,13,Kunar,1313,Chapadara,2017-02-04,Flood / flash flood,0,0,644,92,92,0
+Central Highland,22,Daykundi,2207,Sang-e-Takht,2017-02-04,Avalanche,0,0,0,0,0,0
+South Eastern,12,Paktya,1211,Dand Wa Patan,2017-02-04,Heavy snowfall,0,0,168,24,0,24
+Eastern,13,Kunar,1315,Nari,2017-02-04,Flood / flash flood,0,0,140,21,20,1
+Central Highland,22,Daykundi,2206,Shahrestan,2017-02-04,Avalanche,0,0,0,0,0,0
+Eastern,13,Kunar,1309,Khaskunar,2017-02-04,Flood / flash flood,0,0,21,3,3,0
+Eastern,13,Kunar,1307,Dara-e-Pech,2017-02-04,Flood / flash flood,0,2,296,40,38,2
+Capital,2,Kapisa,203,Kohband,2017-02-04,Heavy snowfall,0,0,140,20,20,0
+Capital,2,Kapisa,204,Hisa-e-Duwum-e-Kohestan,2017-02-04,Heavy snowfall,0,0,252,36,36,0
+Eastern,13,Kunar,1305,Marawara,2017-02-04,Flood / flash flood,0,0,69,10,9,0
+Eastern,13,Kunar,1304,Sarkani,2017-02-04,Flood / flash flood,0,0,28,4,3,3
+Eastern,13,Kunar,1302,Watapur,2017-02-04,Flood / flash flood,0,0,48,8,8,0
+Capital,2,Kapisa,201,Mahmud-e-Raqi,2017-02-04,Heavy snowfall,0,0,210,30,30,0
+Eastern,13,Kunar,1311,Barkunar,2017-02-04,Flood / flash flood,0,1,86,16,12,2
+South Eastern,26,Khost,2601,Khost (Matun),2017-02-04,Flood / flash flood,1,2,287,41,34,7
+Capital,3,Parwan,310,Surkh-e- Parsa,2017-02-04,Heavy snowfall,0,0,603,93,33,10
+Eastern,6,Nangarhar,601,Jalalabad,2017-02-04,Flood / flash flood,0,0,31,4,4,0
+Eastern,13,Kunar,1306,Shigal Wa Sheltan,2017-02-04,Flood / flash flood,0,2,174,21,16,2
+Eastern,13,Kunar,1301,Asadabad,2017-02-04,Flood / flash flood,0,0,119,17,13,0
+Capital,3,Parwan,304,Bagram,2017-02-04,Heavy snowfall,0,0,56,8,5,3
+Capital,3,Parwan,309,Shekhali,2017-02-04,Heavy snowfall,0,0,128,15,12,3
+Capital,3,Parwan,307,Ghorband,2017-02-04,Heavy snowfall,0,0,77,11,11,0
+Capital,3,Parwan,305,Saydkhel,2017-02-04,Heavy snowfall,0,0,56,8,4,4
+Eastern,13,Kunar,1312,Ghaziabad,2017-02-04,Flood / flash flood,0,0,84,13,13,0
+Eastern,13,Kunar,1301,Asadabad,2017-02-05,Flood / flash flood,0,0,84,13,13,0
+Eastern,14,Nuristan,1401,Poruns,2017-02-05,Avalanche,0,4,182,26,26,0
+Northern,28,Faryab,2803,Pashtunkot,2017-02-05,Heavy snowfall,0,0,0,0,0,0
+Eastern,13,Kunar,1307,Dara-e-Pech,2017-02-05,Flood / flash flood,0,0,79,11,11,0
+Eastern,14,Nuristan,1405,Wama,2017-02-05,Heavy snowfall,0,0,119,17,17,0
+Northern,28,Faryab,2809,Bilcheragh,2017-02-05,Heavy snowfall,0,0,0,0,0,0
+Eastern,14,Nuristan,1402,Mandol,2017-02-05,Heavy snowfall,0,0,0,0,0,0
+Central Highland,10,Bamyan,1004,Panjab,2017-02-05,Avalanche,0,0,7,1,0,1
+Eastern,14,Nuristan,1406,Waygal,2017-02-05,Heavy snowfall,0,0,98,14,14,0
+Eastern,13,Kunar,1301,Asadabad,2017-02-05,Flood / flash flood,0,0,22,2,2,0
+Northern,28,Faryab,2809,Bilcheragh,2017-02-05,Heavy snowfall,0,0,0,0,0,0
+Northern,28,Faryab,2809,Bilcheragh,2017-02-05,Heavy snowfall,0,0,0,0,0,0
+Eastern,14,Nuristan,1408,Barg-e- Matal,2017-02-05,Avalanche,52,25,532,76,0,18
+Eastern,13,Kunar,1307,Dara-e-Pech,2017-02-05,Flood / flash flood,0,0,91,14,14,0
+Northern,28,Faryab,2803,Pashtunkot,2017-02-05,Heavy snowfall,0,0,0,0,0,0
+Central Highland,22,Daykundi,2204,kiti,2017-02-05,Heavy snowfall,0,0,14,2,0,2
+Northern,28,Faryab,2803,Pashtunkot,2017-02-05,Heavy snowfall,0,0,0,0,0,0
+Northern,28,Faryab,2801,Maymana,2017-02-06,Landslide / mudflow,0,0,14,2,4,2
+Northern,28,Faryab,2801,Maymana,2017-02-06,Heavy snowfall,0,0,189,27,0,27
+Central Highland,22,Daykundi,2203,Khadir,2017-02-06,Flood / flash flood,0,0,0,0,0,0
+Western,29,Badghis,2902,Muqur,2017-02-06,Heavy snowfall,1,0,7,1,1,0
+Western,29,Badghis,2904,Qadis,2017-02-06,Heavy snowfall,4,0,7,1,0,1
+Western,21,Ghor,2101,Chaghcharan,2017-02-07,Heavy snowfall,0,0,0,0,0,0
+Capital,1,Kabul,101,Kabul,2017-02-07,Heavy snowfall,0,0,126,18,18,0
+North Eastern,9,Baghlan,901,Pul-e-Khumri,2017-02-07,Heavy snowfall,0,0,14,2,0,2
+North Eastern,9,Baghlan,907,Khenjan,2017-02-07,Heavy snowfall,0,0,14,2,0,2
+North Eastern,9,Baghlan,902,Baghlan-e-Jadid,2017-02-07,Heavy snowfall,0,0,7,1,0,1
+Capital,1,Kabul,101,Kabul,2017-02-08,Heavy snowfall,1,0,91,13,9,4
+Central Highland,22,Daykundi,2204,kiti,2017-02-08,Heavy snowfall,0,0,21,3,2,1
+Capital,1,Kabul,101,Kabul,2017-02-08,Heavy snowfall,0,0,7,1,0,1
+Capital,1,Kabul,101,Kabul,2017-02-08,Heavy snowfall,0,0,14,2,0,2
+Capital,1,Kabul,101,Kabul,2017-02-08,Heavy snowfall,0,0,7,1,1,0
+Capital,1,Kabul,113,Surobi,2017-02-08,Heavy snowfall,0,0,28,4,2,2
+Capital,1,Kabul,103,Shakardara,2017-02-08,Heavy snowfall,0,0,14,2,2,0
+Capital,1,Kabul,102,Dehsabz,2017-02-08,Heavy snowfall,0,0,42,6,4,2
+Western,30,Hirat,3016,Chisht-e-Sharif,2017-02-08,Heavy snowfall,0,0,0,0,0,0
+Capital,1,Kabul,107,Bagrami,2017-02-08,Heavy snowfall,7,0,28,4,2,2
+Capital,1,Kabul,101,Kabul,2017-02-08,Heavy snowfall,0,0,189,27,27,0
+Capital,1,Kabul,104,Paghman,2017-02-08,Heavy snowfall,3,0,119,18,9,4
+Capital,1,Kabul,101,Kabul,2017-02-08,Heavy snowfall,0,0,35,5,4,1
+Capital,1,Kabul,101,Kabul,2017-02-08,Heavy snowfall,0,0,84,12,12,0
+Capital,1,Kabul,101,Kabul,2017-02-08,Heavy snowfall,0,0,14,2,2,0
+Central Highland,22,Daykundi,2204,kiti,2017-02-08,Avalanche,0,0,0,0,0,0
+Central Highland,22,Daykundi,2204,kiti,2017-02-09,Heavy snowfall,0,0,14,2,0,2
+Central Highland,22,Daykundi,2204,kiti,2017-02-09,Heavy snowfall,0,0,21,3,2,1
+Western,29,Badghis,2901,Qala-e-Naw,2017-02-10,Flood / flash flood,0,0,56,8,8,56
+Capital,2,Kapisa,202,Nejrab,2017-02-10,Flood / flash flood,0,0,7,1,0,0
+Capital,2,Kapisa,201,Mahmud-e-Raqi,2017-02-10,Flood / flash flood,0,0,133,19,0,0
+Capital,2,Kapisa,207,Hisa-e- Awal-e- Kohestan,2017-02-10,Flood / flash flood,0,0,126,18,0,0
+Central Highland,22,Daykundi,2204,kiti,2017-02-10,Heavy snowfall,0,0,28,4,4,0
+Capital,2,Kapisa,204,Hisa-e-Duwum-e-Kohestan,2017-02-10,Flood / flash flood,0,0,259,37,0,0
+Capital,2,Kapisa,203,Kohband,2017-02-10,Flood / flash flood,0,0,14,2,0,0
+Northern,18,Balkh,1801,Mazar-e-Sharif,2017-02-11,Flood / flash flood,0,0,0,0,7,0
+North Eastern,15,Badakhshan,1507,Yawan,2017-02-12,Avalanche,0,2,2,0,0,0
+Central Highland,10,Bamyan,1003,Yakawlang,2017-02-13,Avalanche,1,1,6,1,0,2
+Central Highland,22,Daykundi,2209,Miramor,2017-02-14,Heavy snowfall,0,0,0,0,0,0
+Northern,27,Jawzjan,2701,Shiberghan,2017-02-14,Heavy snowfall,0,0,0,28,28,0
+Northern,27,Jawzjan,2701,Shiberghan,2017-02-14,Heavy snowfall,0,0,0,124,124,0
+Western,30,Hirat,3003,Kushk,2017-02-15,Flood / flash flood,0,0,0,0,0,0
+Western,29,Badghis,2901,Qala-e-Naw,2017-02-15,Flood / flash flood,0,0,63,9,9,0
+Eastern,6,Nangarhar,604,Khogyani,2017-02-15,Flood / flash flood,2,3,17,2,0,2
+Southern,34,Nimroz,3404,Chakhansur,2017-02-15,Flood / flash flood,0,0,1980,264,264,0
+Southern,34,Nimroz,3405,Khashrod,2017-02-15,Flood / flash flood,0,0,782,111,111,0
+Western,21,Ghor,2108,Lal Wa Sarjangal,2017-02-15,Heavy snowfall,0,0,30,4,0,4
+North Eastern,15,Badakhshan,1514,Shighnan,2017-02-16,Avalanche,1,2,3,0,0,0
+North Eastern,15,Badakhshan,1505,Kohestan,2017-02-17,Avalanche,3,4,7,0,0,0
+Central Highland,22,Daykundi,2206,Shahrestan,2017-02-17,Heavy snowfall,0,0,0,0,0,0
+Central Highland,22,Daykundi,2204,kiti,2017-02-18,Heavy snowfall,0,0,7,1,0,1
+Central Highland,22,Daykundi,2204,kiti,2017-02-18,Flood / flash flood,0,0,0,0,4,0
+Central Highland,22,Daykundi,2209,Miramor,2017-02-18,Flood / flash flood,0,0,0,0,0,0
+Central Highland,22,Daykundi,2204,kiti,2017-02-18,Flood / flash flood,0,0,7,1,0,1
+Central Highland,22,Daykundi,2201,Nili,2017-02-18,Heavy snowfall,0,0,28,4,3,1
+Central Highland,22,Daykundi,2204,kiti,2017-02-18,Flood / flash flood,0,0,6,1,2,1
+Central Highland,22,Daykundi,2204,kiti,2017-02-18,Heavy snowfall,0,0,14,2,0,2
+Central Highland,22,Daykundi,2204,kiti,2017-02-18,Flood / flash flood,0,0,11,2,0,2
+Central Highland,22,Daykundi,2204,kiti,2017-02-18,Flood / flash flood,0,0,3,1,2,1
+Central Highland,22,Daykundi,2204,kiti,2017-02-18,Heavy snowfall,0,0,7,1,0,1
+Central Highland,22,Daykundi,2204,kiti,2017-02-18,Heavy snowfall,0,0,7,1,0,1
+Central Highland,22,Daykundi,2204,kiti,2017-02-18,Heavy snowfall,0,0,7,1,1,0
+Central Highland,22,Daykundi,2209,Miramor,2017-02-18,Heavy snowfall,0,0,0,0,0,0
+Central Highland,22,Daykundi,2203,Khadir,2017-02-18,Heavy snowfall,0,0,0,0,0,0
+Central Highland,22,Daykundi,2204,kiti,2017-02-18,Heavy snowfall,0,0,28,4,2,2
+Central Highland,22,Daykundi,2209,Miramor,2017-02-18,Heavy snowfall,0,0,28,4,3,1
+Northern,18,Balkh,1801,Mazar-e-Sharif,2017-02-18,Heavy snowfall,0,0,0,0,2,0
+Northern,28,Faryab,2802,Khwajasabzposh,2017-02-18,Heavy snowfall,0,0,0,0,0,0
+Northern,18,Balkh,1801,Mazar-e-Sharif,2017-02-18,Heavy snowfall,0,0,357,51,51,0
+Western,29,Badghis,2902,Muqur,2017-02-18,Heavy snowfall,0,0,0,0,0,0
+Western,30,Hirat,3005,Guzara,2017-02-18,Flood / flash flood,0,0,365,52,52,0
+Western,30,Hirat,3006,Pashtunzarghun,2017-02-18,Flood / flash flood,0,0,126,18,18,0
+Western,29,Badghis,2902,Muqur,2017-02-18,Heavy snowfall,0,0,0,0,0,0
+Northern,28,Faryab,2808,Garziwan,2017-02-18,Heavy snowfall,0,0,0,0,0,0
+Northern,28,Faryab,2801,Maymana,2017-02-18,Heavy snowfall,0,0,0,0,0,0
+Northern,28,Faryab,2807,Kohestan,2017-02-18,Heavy snowfall,0,0,0,0,0,0
+Northern,18,Balkh,1815,Keshendeh,2017-02-18,Heavy snowfall,0,0,1827,261,261,0
+Central Highland,22,Daykundi,2204,kiti,2017-02-18,Heavy snowfall,0,0,0,0,0,0
+Western,30,Hirat,3010,Adraskan,2017-02-18,Flood / flash flood,0,0,434,62,62,0
+Northern,18,Balkh,1806,Dehdadi,2017-02-18,Heavy snowfall,0,0,0,0,1,0
+Western,30,Hirat,3002,Injil,2017-02-18,Flood / flash flood,0,0,14,2,2,0
+Western,30,Hirat,3007,Karukh,2017-02-18,Flood / flash flood,0,0,14,2,2,0
+Western,30,Hirat,3005,Guzara,2017-02-18,Flood / flash flood,0,0,1344,192,0,192
+Northern,28,Faryab,2803,Pashtunkot,2017-02-18,Heavy snowfall,0,0,0,0,0,0
+Northern,28,Faryab,2812,Qaramqol,2017-02-18,Heavy snowfall,1,2,21,3,0,0
+Northern,28,Faryab,2811,Andkhoy,2017-02-18,Heavy snowfall,2,0,434,62,62,62
+Northern,28,Faryab,2809,Bilcheragh,2017-02-18,Heavy snowfall,0,0,0,0,0,0
+Western,30,Hirat,3014,Kohsan,2017-02-18,Flood / flash flood,2,0,392,56,45,11
+Northern,28,Faryab,2810,Dawlatabad,2017-02-18,Heavy snowfall,0,0,0,0,0,0
+Capital,3,Parwan,301,Charikar,2017-02-19,Flood / flash flood,0,0,11,1,0,1
+Capital,3,Parwan,301,Charikar,2017-02-19,Flood / flash flood,0,0,13,2,0,2
+Eastern,13,Kunar,1306,Shigal Wa Sheltan,2017-02-19,Flood / flash flood,0,0,70,10,7,3
+Eastern,13,Kunar,1311,Barkunar,2017-02-19,Flood / flash flood,0,0,21,3,2,1
+Eastern,13,Kunar,1315,Nari,2017-02-19,Flood / flash flood,0,0,21,3,3,0
+Capital,3,Parwan,303,Shinwari,2017-02-19,Flood / flash flood,0,0,7,1,2,1
+Capital,3,Parwan,305,Saydkhel,2017-02-19,Flood / flash flood,0,0,13,2,1,1
+Eastern,13,Kunar,1305,Marawara,2017-02-19,Flood / flash flood,0,0,18,2,2,0
+North Eastern,17,Kunduz,1702,Emamsaheb,2017-02-19,Heavy snowfall,2,2,7,1,0,1
+Western,21,Ghor,2105,Shahrak,2017-02-19,Heavy snowfall,0,0,0,0,0,0
+Eastern,13,Kunar,1314,Nurgal,2017-02-19,Flood / flash flood,0,0,10,1,1,0
+Eastern,13,Kunar,1301,Asadabad,2017-02-19,Flood / flash flood,0,0,17,2,2,0
+Eastern,13,Kunar,1301,Asadabad,2017-02-19,Flood / flash flood,0,0,17,2,2,0
+North Eastern,15,Badakhshan,1515,Darwaz-e-Balla,2017-02-19,Avalanche,0,0,193,28,28,0
+Southern,24,Zabul,2401,Qalat,2017-02-19,Flood / flash flood,0,0,237,25,22,3
+Northern,27,Jawzjan,2701,Shiberghan,2017-02-19,Heavy snowfall,0,0,0,71,71,0
+Eastern,13,Kunar,1310,Dangam,2017-02-19,Flood / flash flood,0,0,42,6,6,0
+Eastern,13,Kunar,1307,Dara-e-Pech,2017-02-19,Flood / flash flood,0,0,109,16,16,0
+Eastern,13,Kunar,1302,Watapur,2017-02-19,Flood / flash flood,0,0,28,4,4,0
+Northern,18,Balkh,1801,Mazar-e-Sharif,2017-02-20,Heavy snowfall,0,0,0,0,23,0
+Southern,33,Kandahar,3301,Kandahar,2017-02-20,Flood / flash flood,1,0,37,5,5,0
+North Eastern,15,Badakhshan,1512,Baharak,2017-02-20,Flood / flash flood,0,0,86,18,18,0
+South Eastern,26,Khost,2601,Khost (Matun),2017-02-22,Flood / flash flood,0,0,140,20,20,0
+South Eastern,26,Khost,2605,Mandozayi,2017-02-22,Flood / flash flood,0,0,77,11,11,0
+South Eastern,26,Khost,2606,Tani,2017-02-22,Flood / flash flood,0,0,77,11,11,0
+Central Highland,10,Bamyan,1001,Bamyan,2017-02-23,Avalanche,0,0,5,1,1,0
+Central Highland,10,Bamyan,1003,Yakawlang,2017-02-26,Avalanche,0,0,0,0,0,0
+North Eastern,16,Takhar,1616,Warsaj,2017-02-27,Heavy snowfall,0,0,0,0,0,0
+North Eastern,15,Badakhshan,1512,Baharak,2017-02-27,Flood / flash flood,0,0,90,15,15,0
+Central Highland,10,Bamyan,1003,Yakawlang,2017-02-28,Landslide / mudflow,0,0,0,0,0,0
+Central Highland,10,Bamyan,1007,Waras,2017-03-04,Heavy snowfall,0,0,0,0,0,0
+Central Highland,10,Bamyan,1007,Waras,2017-03-04,Heavy snowfall,0,0,0,0,0,0
+Central Highland,10,Bamyan,1007,Waras,2017-03-04,Heavy snowfall,0,0,0,0,0,0
+North Eastern,15,Badakhshan,1508,Shahr-e-Buzorg,2017-03-12,Avalanche,0,0,0,0,0,0
+North Eastern,15,Badakhshan,1507,Yawan,2017-03-17,Flood / flash flood,0,0,0,0,0,0
+North Eastern,15,Badakhshan,1507,Yawan,2017-03-17,Landslide / mudflow,0,0,0,0,0,0
+South Eastern,26,Khost,2603,Musakhel,2017-03-20,Flood / flash flood,0,0,357,51,11,51
+Central Highland,10,Bamyan,1007,Waras,2017-03-20,Flood / flash flood,0,0,7,1,0,1
+Central Highland,10,Bamyan,1007,Waras,2017-03-20,Flood / flash flood,0,0,7,1,0,1
+Central Highland,10,Bamyan,1007,Waras,2017-03-20,Flood / flash flood,0,0,6,1,0,1
+South Eastern,11,Ghazni,1106,Dehyak,2017-03-20,Flood / flash flood,0,0,35,5,5,0
+South Eastern,11,Ghazni,1111,Giro,2017-03-20,Flood / flash flood,0,0,14,2,2,3
+South Eastern,11,Ghazni,1107,Zanakhan,2017-03-20,Flood / flash flood,0,0,70,10,6,4
+Central Highland,10,Bamyan,1007,Waras,2017-03-20,Flood / flash flood,0,0,5,1,0,1
+South Eastern,11,Ghazni,1104,Waghaz,2017-03-20,Flood / flash flood,0,0,56,8,7,1
+Central Highland,10,Bamyan,1007,Waras,2017-03-20,Flood / flash flood,0,0,27,1,0,1
+South Eastern,11,Ghazni,1110,Qarabagh,2017-03-20,Flood / flash flood,0,0,84,12,12,0
+South Eastern,11,Ghazni,1105,Andar,2017-03-20,Flood / flash flood,0,0,56,8,8,0
+Central Highland,10,Bamyan,1007,Waras,2017-03-20,Flood / flash flood,0,0,11,1,0,1
+South Eastern,11,Ghazni,1108,Rashidan,2017-03-20,Flood / flash flood,0,0,7,1,1,0
+Central Highland,10,Bamyan,1007,Waras,2017-03-20,Flood / flash flood,0,0,48,5,1,4
+South Eastern,11,Ghazni,1103,Walimuhammad-e- Shahid,2017-03-20,Flood / flash flood,0,0,21,3,3,0
+South Eastern,11,Ghazni,1102,Khwajaumari,2017-03-20,Flood / flash flood,0,0,14,2,2,0
+Western,21,Ghor,2106,Taywarah,2017-03-21,Flood / flash flood,0,0,0,0,0,0
+Western,31,Farah,3111,Anardara,2017-03-21,Flood / flash flood,0,0,0,0,0,0
+Western,21,Ghor,2110,Saghar,2017-03-21,Flood / flash flood,0,0,0,0,0,0
+Western,21,Ghor,2105,Shahrak,2017-03-21,Flood / flash flood,0,0,0,0,0,0
+Western,30,Hirat,3005,Guzara,2017-03-21,Flood / flash flood,0,0,0,0,0,0
+Western,30,Hirat,3010,Adraskan,2017-03-21,Flood / flash flood,0,0,0,0,0,0
+Western,30,Hirat,3001,Hirat,2017-03-21,Flood / flash flood,0,0,347,49,40,9
+Western,31,Farah,3111,Anardara,2017-03-21,Flood / flash flood,0,0,0,0,0,0
+South Eastern,11,Ghazni,1118,Gelan,2017-03-21,Flood / flash flood,0,0,7,1,1,0
+Western,30,Hirat,3002,Injil,2017-03-21,Flood / flash flood,0,0,938,134,100,34
+South Eastern,11,Ghazni,1116,Ajrestan,2017-03-22,Flood / flash flood,0,0,14,2,0,2
+Southern,34,Nimroz,3404,Chakhansur,2017-03-23,Flood / flash flood,0,0,235,38,38,0
+Southern,34,Nimroz,3404,Chakhansur,2017-03-23,Flood / flash flood,0,0,215,35,22,13
+Southern,34,Nimroz,3404,Chakhansur,2017-03-23,Flood / flash flood,0,0,256,42,27,15
+Southern,34,Nimroz,3404,Chakhansur,2017-03-23,Flood / flash flood,0,0,267,41,37,4
+Southern,34,Nimroz,3404,Chakhansur,2017-03-23,Flood / flash flood,0,0,223,36,8,28
+Central Highland,10,Bamyan,1003,Yakawlang,2017-03-25,Avalanche,0,0,0,0,0,0
+Western,30,Hirat,3007,Karukh,2017-03-26,Flood / flash flood,1,0,210,30,10,20
+Western,21,Ghor,2108,Lal Wa Sarjangal,2017-03-27,Flood / flash flood,0,0,133,19,19,0
+Northern,18,Balkh,1803,Shortepa,2017-03-27,Flood / flash flood,0,0,196,28,0,28
+Western,21,Ghor,2108,Lal Wa Sarjangal,2017-03-27,Flood / flash flood,0,0,0,0,0,0
+Northern,18,Balkh,1810,Kaldar,2017-03-27,Flood / flash flood,0,0,476,68,0,68
+Western,30,Hirat,3001,Hirat,2017-03-28,Flood / flash flood,0,0,322,46,0,46
+Western,30,Hirat,3002,Injil,2017-03-28,Flood / flash flood,0,0,112,16,16,0
+Western,30,Hirat,3005,Guzara,2017-03-28,Flood / flash flood,0,0,539,77,20,57
+Western,30,Hirat,3005,Guzara,2017-03-29,Flood / flash flood,0,0,0,0,0,0
+Central Highland,10,Bamyan,1001,Bamyan,2017-03-29,Avalanche,1,3,9,1,0,1
+Western,30,Hirat,3003,Kushk,2017-03-29,Flood / flash flood,0,0,399,57,57,0
+Western,30,Hirat,3001,Hirat,2017-03-29,Flood / flash flood,0,0,1883,269,269,0
+Western,30,Hirat,3002,Injil,2017-03-29,Flood / flash flood,0,0,49,7,7,0
+Western,30,Hirat,3012,Obe,2017-03-29,Flood / flash flood,0,0,0,0,0,0
+Western,30,Hirat,3006,Pashtunzarghun,2017-03-29,Flood / flash flood,0,0,0,0,0,0
+Central Highland,10,Bamyan,1003,Yakawlang,2017-03-30,Landslide / mudflow,0,0,17,2,2,2
+North Eastern,15,Badakhshan,1514,Shighnan,2017-03-30,Landslide / mudflow,0,0,42,7,5,2
+North Eastern,15,Badakhshan,1514,Shighnan,2017-03-30,Avalanche,2,0,2,0,0,0
+Northern,18,Balkh,1805,Balkh,2017-04-01,Flood / flash flood,0,0,49,7,3,4
+North Eastern,9,Baghlan,901,Pul-e-Khumri,2017-04-02,Flood / flash flood,0,0,7,1,0,1
+North Eastern,15,Badakhshan,1517,Khwahan,2017-04-05,Landslide / mudflow,1,0,1,0,0,0
+Central Highland,22,Daykundi,2209,Miramor,2017-04-05,Landslide / mudflow,0,0,15,3,3,3
+Eastern,13,Kunar,1302,Watapur,2017-04-06,Flood / flash flood,0,0,10,1,1,0
+Eastern,13,Kunar,1301,Asadabad,2017-04-06,Flood / flash flood,0,0,7,1,1,0
+Eastern,13,Kunar,1301,Asadabad,2017-04-06,Flood / flash flood,0,0,7,1,1,0
+North Eastern,15,Badakhshan,1507,Yawan,2017-04-07,Flood / flash flood,0,0,0,0,0,0
+North Eastern,15,Badakhshan,1512,Baharak,2017-04-08,Landslide / mudflow,0,0,132,22,22,0
+North Eastern,15,Badakhshan,1502,Yaftal-e-Sufla,2017-04-10,Flood / flash flood,0,0,138,23,23,0
+Central Highland,10,Bamyan,1004,Panjab,2017-04-10,Flood / flash flood,0,0,17,2,2,0
+North Eastern,15,Badakhshan,1501,Fayzabad,2017-04-11,Flood / flash flood,0,0,36,6,6,0
+North Eastern,16,Takhar,1616,Warsaj,2017-04-17,Flood / flash flood,0,0,14,2,0,2
+Northern,19,Samangan,1907,Ruy-e-Duab,2017-04-18,Flood / flash flood,0,0,735,105,100,5
+North Eastern,15,Badakhshan,1507,Yawan,2017-04-19,Flood / flash flood,0,0,0,0,0,0
+Central Highland,10,Bamyan,1003,Yakawlang,2017-04-20,Flood / flash flood,0,0,40,5,0,5
+North Eastern,9,Baghlan,901,Pul-e-Khumri,2017-04-20,Flood / flash flood,0,0,56,8,5,3
+North Eastern,9,Baghlan,909,Khwajahejran,2017-04-20,Flood / flash flood,0,0,189,27,16,11
+North Eastern,9,Baghlan,901,Pul-e-Khumri,2017-04-20,Flood / flash flood,1,0,1848,264,153,111
+North Eastern,9,Baghlan,905,Nahrin,2017-04-20,Flood / flash flood,2,0,315,45,31,14
+North Eastern,16,Takhar,1609,Rostaq,2017-04-20,Flood / flash flood,0,0,203,29,23,6
+Northern,19,Samangan,1901,Aybak,2017-04-20,Flood / flash flood,0,0,98,14,13,1
+North Eastern,15,Badakhshan,1509,Teshkan,2017-04-20,Flood / flash flood,0,0,665,95,32,63
+Northern,18,Balkh,1815,Keshendeh,2017-04-20,Flood / flash flood,1,0,693,99,99,0
+North Eastern,9,Baghlan,908,Andarab,2017-04-20,Flood / flash flood,2,0,210,30,9,21
+Eastern,13,Kunar,1301,Asadabad,2017-04-21,Flood / flash flood,0,0,8,1,1,0
+Eastern,13,Kunar,1301,Asadabad,2017-04-21,Flood / flash flood,0,0,8,1,1,0
+Eastern,13,Kunar,1301,Asadabad,2017-04-21,Flood / flash flood,0,0,8,1,1,0
+Eastern,13,Kunar,1305,Marawara,2017-04-21,Flood / flash flood,0,0,13,1,1,0
+Eastern,13,Kunar,1301,Asadabad,2017-04-21,Flood / flash flood,0,0,8,1,1,0
+North Eastern,15,Badakhshan,1502,Yaftal-e-Sufla,2017-04-21,Flood / flash flood,0,0,161,23,10,0
+North Eastern,16,Takhar,1608,Kalafgan,2017-04-21,Flood / flash flood,0,0,14,2,2,0
+North Eastern,15,Badakhshan,1510,Darayem,2017-04-21,Flood / flash flood,0,0,980,140,115,25
+North Eastern,16,Takhar,1601,Taloqan,2017-04-21,Flood / flash flood,0,0,140,20,16,4
+North Eastern,15,Badakhshan,1502,Yaftal-e-Sufla,2017-04-21,Landslide / mudflow,0,0,1400,200,0,0
+North Eastern,15,Badakhshan,1503,Argo,2017-04-21,Flood / flash flood,0,0,175,25,9,2
+North Eastern,16,Takhar,1615,Eshkmesh,2017-04-23,Flood / flash flood,0,0,112,16,14,4
+North Eastern,16,Takhar,1608,Kalafgan,2017-04-23,Flood / flash flood,0,0,21,3,2,1
+North Eastern,15,Badakhshan,1508,Shahr-e-Buzorg,2017-04-23,Flood / flash flood,0,0,315,45,37,8
+North Eastern,15,Badakhshan,1507,Yawan,2017-04-26,Landslide / mudflow,0,0,0,0,0,0
+North Eastern,15,Badakhshan,1507,Yawan,2017-04-27,Landslide / mudflow,0,0,0,0,0,0
+Northern,18,Balkh,1803,Shortepa,2017-05-01,Flood / flash flood,0,0,280,40,0,40
+South Eastern,26,Khost,2610,Shamal,2017-05-01,Flood / flash flood,0,0,21,3,3,0
+South Eastern,26,Khost,2601,Khost (Matun),2017-05-01,Flood / flash flood,0,0,70,10,10,0
+South Eastern,26,Khost,2604,Nadirshahkot,2017-05-01,Flood / flash flood,0,0,49,7,5,2
+Western,21,Ghor,2101,Chaghcharan,2017-05-01,Flood / flash flood,0,0,399,57,57,0
+South Eastern,26,Khost,2605,Mandozayi,2017-05-01,Flood / flash flood,0,0,77,11,11,0
+Northern,18,Balkh,1810,Kaldar,2017-05-01,Flood / flash flood,0,0,504,72,0,72
+Northern,18,Balkh,1803,Shortepa,2017-05-04,Flood / flash flood,0,0,434,62,0,62
+North Eastern,15,Badakhshan,1505,Kohestan,2017-05-06,Flood / flash flood,0,0,0,0,0,0
+North Eastern,9,Baghlan,908,Andarab,2017-05-07,Flood / flash flood,0,0,196,28,23,5
+North Eastern,9,Baghlan,909,Khwajahejran,2017-05-07,Flood / flash flood,0,0,35,5,4,1
+North Eastern,9,Baghlan,907,Khenjan,2017-05-07,Flood / flash flood,1,1,245,35,18,17
+North Eastern,9,Baghlan,905,Nahrin,2017-05-07,Flood / flash flood,0,0,98,14,5,9
+North Eastern,9,Baghlan,904,Doshi,2017-05-07,Flood / flash flood,0,0,14,2,0,2
+Western,21,Ghor,2101,Chaghcharan,2017-05-07,Flood / flash flood,0,0,651,93,0,0
+Northern,19,Samangan,1906,Khuram Wa Sarbagh,2017-05-07,Flood / flash flood,0,0,98,14,14,0
+Northern,19,Samangan,1901,Aybak,2017-05-07,Flood / flash flood,0,0,210,30,16,14
+North Eastern,9,Baghlan,911,Pul-e- Hesar,2017-05-07,Flood / flash flood,0,0,42,6,5,1
+North Eastern,16,Takhar,1607,Farkhar,2017-05-07,Flood / flash flood,0,0,294,42,39,3
+Central Highland,10,Bamyan,1003,Yakawlang,2017-05-08,Landslide / mudflow,0,0,17,3,0,3
+Central Highland,10,Bamyan,1006,Kahmard,2017-05-12,Flood / flash flood,0,0,70,10,0,0
+Central Highland,10,Bamyan,1004,Panjab,2017-05-12,Flood / flash flood,0,0,7,1,0,1
+Central Highland,10,Bamyan,1004,Panjab,2017-05-12,Flood / flash flood,0,0,7,1,0,1
+Central Highland,10,Bamyan,1006,Kahmard,2017-05-12,Flood / flash flood,0,0,77,11,0,0
+Central Highland,10,Bamyan,1003,Yakawlang,2017-05-12,Flood / flash flood,0,0,154,22,0,0
+Central Highland,10,Bamyan,1002,Sayghan,2017-05-12,Flood / flash flood,0,0,21,3,0,0
+Central Highland,10,Bamyan,1007,Waras,2017-05-12,Flood / flash flood,0,0,9,1,0,1
+Central Highland,10,Bamyan,1003,Yakawlang,2017-05-12,Flood / flash flood,0,0,21,3,0,0
+Central Highland,10,Bamyan,1004,Panjab,2017-05-12,Flood / flash flood,0,0,7,1,0,1
+Central Highland,10,Bamyan,1004,Panjab,2017-05-12,Flood / flash flood,0,0,28,4,0,4
+Central Highland,10,Bamyan,1004,Panjab,2017-05-12,Flood / flash flood,0,0,7,1,0,1
+Central Highland,10,Bamyan,1004,Panjab,2017-05-12,Flood / flash flood,0,0,7,1,0,1
+Central Highland,10,Bamyan,1004,Panjab,2017-05-12,Flood / flash flood,0,0,21,3,0,3
+Central Highland,10,Bamyan,1004,Panjab,2017-05-12,Flood / flash flood,0,0,14,2,0,2
+Central Highland,10,Bamyan,1004,Panjab,2017-05-12,Flood / flash flood,0,0,14,2,0,2
+Central Highland,10,Bamyan,1004,Panjab,2017-05-12,Flood / flash flood,0,0,14,2,0,2
+Central Highland,10,Bamyan,1004,Panjab,2017-05-12,Flood / flash flood,0,0,7,1,0,1
+Central Highland,10,Bamyan,1004,Panjab,2017-05-12,Flood / flash flood,0,0,7,1,0,1
+Central Highland,10,Bamyan,1004,Panjab,2017-05-12,Flood / flash flood,0,0,7,1,0,1
+Central Highland,10,Bamyan,1003,Yakawlang,2017-05-12,Flood / flash flood,0,0,7,1,0,0
+Central Highland,10,Bamyan,1004,Panjab,2017-05-12,Flood / flash flood,0,0,7,1,0,1
+Central Highland,10,Bamyan,1004,Panjab,2017-05-12,Flood / flash flood,0,0,7,1,0,1
+Central Highland,10,Bamyan,1004,Panjab,2017-05-12,Flood / flash flood,0,0,7,1,0,1
+Central Highland,10,Bamyan,1002,Sayghan,2017-05-12,Flood / flash flood,0,0,84,12,0,0
+Central Highland,10,Bamyan,1007,Waras,2017-05-12,Flood / flash flood,0,0,7,1,0,1
+Central Highland,10,Bamyan,1007,Waras,2017-05-12,Flood / flash flood,0,0,7,1,0,0
+Central Highland,10,Bamyan,1007,Waras,2017-05-12,Flood / flash flood,0,0,14,2,0,2
+Central Highland,10,Bamyan,1007,Waras,2017-05-12,Flood / flash flood,0,0,7,1,0,1
+Central Highland,10,Bamyan,1007,Waras,2017-05-12,Flood / flash flood,0,0,56,8,0,8
+Central Highland,10,Bamyan,1007,Waras,2017-05-12,Flood / flash flood,0,0,14,2,0,2
+Central Highland,10,Bamyan,1004,Panjab,2017-05-12,Flood / flash flood,0,0,35,5,0,5
+Central Highland,10,Bamyan,1007,Waras,2017-05-12,Flood / flash flood,0,0,14,2,0,2
+Central Highland,10,Bamyan,1007,Waras,2017-05-12,Flood / flash flood,0,0,7,1,0,1
+Central Highland,10,Bamyan,1007,Waras,2017-05-12,Flood / flash flood,0,0,14,2,0,2
+Central Highland,10,Bamyan,1007,Waras,2017-05-12,Flood / flash flood,0,0,11,1,0,1
+Central Highland,10,Bamyan,1007,Waras,2017-05-12,Flood / flash flood,0,0,7,1,0,1
+Central Highland,10,Bamyan,1002,Sayghan,2017-05-12,Flood / flash flood,0,0,21,3,0,0
+Central Highland,10,Bamyan,1007,Waras,2017-05-12,Flood / flash flood,0,0,7,1,0,1
+Central Highland,10,Bamyan,1007,Waras,2017-05-12,Flood / flash flood,0,0,21,3,0,3
+Central Highland,10,Bamyan,1007,Waras,2017-05-12,Flood / flash flood,0,0,14,2,0,2
+Central Highland,10,Bamyan,1007,Waras,2017-05-12,Flood / flash flood,0,0,21,2,0,3
+Central Highland,10,Bamyan,1007,Waras,2017-05-12,Flood / flash flood,0,0,14,2,0,2
+Central Highland,10,Bamyan,1007,Waras,2017-05-12,Flood / flash flood,0,0,22,2,0,2
+North Eastern,15,Badakhshan,1521,Jorm,2017-05-15,Flood / flash flood,3,2,1792,256,144,112
+Western,30,Hirat,3012,Obe,2017-05-16,Flood / flash flood,0,0,252,36,36,0
+North Eastern,15,Badakhshan,1503,Argo,2017-05-16,Flood / flash flood,0,0,140,20,10,10
+Western,29,Badghis,2905,Jawand,2017-05-16,Flood / flash flood,0,0,0,0,0,0
+Western,21,Ghor,2101,Chaghcharan,2017-05-17,Flood / flash flood,0,0,651,93,51,42
+Western,21,Ghor,2101,Chaghcharan,2017-05-17,Flood / flash flood,0,0,460,57,0,0
+Eastern,13,Kunar,1307,Dara-e-Pech,2017-05-22,Flood / flash flood,0,0,14,2,2,0
+Northern,27,Jawzjan,2709,Qarqin,2017-05-23,Flood / flash flood,0,0,0,0,56,0
+Eastern,7,Laghman,704,Alingar,2017-06-12,Flood / flash flood,0,0,44,7,6,1
+North Eastern,16,Takhar,1609,Rostaq,2017-06-13,Landslide / mudflow,0,0,245,35,27,8
+Eastern,13,Kunar,1308,Chawkay,2017-06-14,Flood / flash flood,0,0,28,4,4,0
+Eastern,13,Kunar,1307,Dara-e-Pech,2017-06-28,Flood / flash flood,1,4,30,5,5,0
+Eastern,13,Kunar,1308,Chawkay,2017-06-28,Flood / flash flood,0,0,12,2,2,0
+Eastern,13,Kunar,1306,Shigal Wa Sheltan,2017-06-28,Flood / flash flood,2,1,30,6,6,0
+Eastern,13,Kunar,1309,Khaskunar,2017-06-28,Flood / flash flood,0,0,6,1,0,1
+Eastern,13,Kunar,1307,Dara-e-Pech,2017-06-28,Flood / flash flood,0,0,98,14,14,0
+Eastern,13,Kunar,1303,Narang,2017-06-28,Flood / flash flood,0,0,6,1,1,0
+South Eastern,26,Khost,2606,Tani,2017-06-29,Flood / flash flood,0,0,21,3,3,0
+South Eastern,25,Paktika,2510,Urgun,2017-06-29,Flood / flash flood,0,0,105,15,15,0
+South Eastern,25,Paktika,2504,Sarrawzah(Sarhawzah),2017-06-29,Flood / flash flood,0,0,84,12,12,0
+South Eastern,26,Khost,2602,Sabari,2017-06-29,Flood / flash flood,0,0,49,7,7,0
+South Eastern,26,Khost,2601,Khost (Matun),2017-06-29,Flood / flash flood,0,0,133,19,10,9
+North Eastern,15,Badakhshan,1512,Baharak,2017-07-08,Flood / flash flood,0,0,133,19,10,9
+Northern,18,Balkh,1810,Kaldar,2017-07-13,Flood / flash flood,0,0,2331,333,0,333
+Northern,18,Balkh,1803,Shortepa,2017-07-13,Flood / flash flood,0,0,1092,156,0,156
+South Eastern,11,Ghazni,1101,Ghazni,2017-07-13,Flood / flash flood,0,0,42,6,6,0
+Eastern,6,Nangarhar,607,Kama,2017-07-14,Flood / flash flood,0,0,58,8,8,0
+Capital,3,Parwan,310,Surkh-e- Parsa,2017-07-15,Flood / flash flood,0,0,357,51,50,1
+South Eastern,12,Paktya,1204,Zurmat,2017-07-16,Flood / flash flood,0,0,42,6,4,2
+Capital,1,Kabul,113,Surobi,2017-07-16,Flood / flash flood,11,7,252,36,14,22
+Eastern,6,Nangarhar,619,Muhmand Dara,2017-07-16,Flood / flash flood,0,0,151,19,19,0
+South Eastern,26,Khost,2601,Khost (Matun),2017-07-16,Flood / flash flood,0,0,203,29,27,2
+South Eastern,26,Khost,2606,Tani,2017-07-16,Flood / flash flood,0,0,147,21,17,4
+South Eastern,12,Paktya,1201,Gardez,2017-07-16,Flood / flash flood,0,0,56,8,3,5
+Eastern,13,Kunar,1303,Narang,2017-07-22,Flood / flash flood,0,0,14,2,2,0
+Eastern,13,Kunar,1309,Khaskunar,2017-07-22,Flood / flash flood,0,0,28,4,4,0
+Northern,18,Balkh,1803,Shortepa,2017-08-05,Flood / flash flood,0,0,749,107,0,107
+Eastern,13,Kunar,1301,Asadabad,2017-08-11,Flood / flash flood,0,0,21,3,3,0
+Eastern,13,Kunar,1306,Shigal Wa Sheltan,2017-08-11,Flood / flash flood,0,0,7,1,1,0
+Eastern,13,Kunar,1308,Chawkay,2017-08-11,Flood / flash flood,0,0,7,1,1,0
+Eastern,13,Kunar,1314,Nurgal,2017-08-11,Flood / flash flood,1,2,14,2,2,0
+Eastern,13,Kunar,1315,Nari,2017-08-11,Flood / flash flood,1,3,7,1,1,0
+North Eastern,9,Baghlan,908,Andarab,2017-08-21,Landslide / mudflow,1,0,0,0,0,0
+North Eastern,17,Kunduz,1701,Kunduz,2017-10-02,Flood / flash flood,0,0,91,13,0,13
+Central Highland,10,Bamyan,1003,Yakawlang,2017-10-25,Landslide / mudflow,0,0,0,0,0,0
+Capital,5,Logar,502,Khoshi,2017-11-05,Landslide / mudflow,0,0,140,20,0,0

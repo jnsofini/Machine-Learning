@@ -1,0 +1,247 @@
+REGION,PROV_CODE,PROV_NAME,DIST_CODE,DIST_NAME,INC_DATE,INC_TYPE,Persons_killed,Persons_injured,Individuals_affected,Families_affected,Houses_damaged,Houses_destroyed
+#adm1 +name +en,#adm2 +code,#adm2 +name +en,#adm3 +code,#adm3 +name +en,#cause +date,#cause +type,#affected +killed +num,#affected +injured +num,#affected +individual +num,#affected +family +num,#damaged+houses+num,#destroyed+houses+num
+Northern,27,Jawzjan,2709,Qarqin,23/05/17,Flood / flash flood,0,0,0,0,56,0
+South Eastern,25,Paktika,2505,Zarghunshahr,02/01/18,Flood / flash flood,0,0,1120,160,160,0
+South Eastern,25,Paktika,2512,Janikhel,03/01/18,Flood / flash flood,0,0,980,140,140,0
+North Eastern,15,Badakhshan,1506,Raghestan,28/01/18,Avalanche,1,2,3,0,0,0
+North Eastern,15,Badakhshan,1505,Kohestan,28/01/18,Landslide / mudflow,4,4,8,0,0,0
+Western,21,Ghor,2101,Chaghcharan,30/01/18,Drought,0,0,245,35,0,0
+Eastern,13,Kunar,1306,Shigal Wa Sheltan,31/01/18,Earthquake,0,0,28,4,4,0
+Eastern,13,Kunar,1309,Khaskunar,31/01/18,Earthquake,0,0,7,2,2,0
+Eastern,13,Kunar,1311,Barkunar,31/01/18,Earthquake,0,0,42,6,6,0
+Eastern,13,Kunar,1310,Dangam,31/01/18,Earthquake,0,0,35,5,5,0
+South Eastern,12,Paktya,1201,Gardez,12/02/18,Flood / flash flood,0,0,420,60,60,0
+South Eastern,12,Paktya,1208,Alikhel (Jaji),12/02/18,Flood / flash flood,0,0,280,40,40,0
+Eastern,13,Kunar,1314,Nurgal,12/02/18,Flood / flash flood,0,0,31,3,3,0
+South Eastern,12,Paktya,1206,Zadran,13/02/18,Flood / flash flood,0,0,210,30,30,0
+South Eastern,12,Paktya,1202,Sayedkaram,13/02/18,Flood / flash flood,0,0,175,25,25,0
+Capital,3,Parwan,303,Shinwari,14/02/18,Heavy snowfall,0,0,70,10,8,2
+North Eastern,16,Takhar,1612,Khwajabahawuddin,15/02/18,Flood / flash flood,0,0,182,26,26,0
+Northern,18,Balkh,1802,Nahr-e-Shahi,19/02/18,Flood / flash flood,0,0,133,19,19,0
+Western,21,Ghor,2101,Chaghcharan,25/02/18,Drought,0,0,161,23,0,0
+Western,30,Hirat,3007,Karukh,26/02/18,Flood / flash flood,0,0,168,26,0,26
+Western,30,Hirat,3006,Pashtunzarghun,26/02/18,Flood / flash flood,0,0,0,0,0,0
+Western,29,Badghis,2904,Qadis,26/02/18,Flood / flash flood,6,0,6,0,0,0
+Southern,33,Kandahar,3301,Kandahar,26/02/18,Flood / flash flood,0,0,807,101,0,0
+Western,21,Ghor,2101,Chaghcharan,01/03/18,Drought,0,0,245,35,0,0
+Western,31,Farah,3101,Farah,01/03/18,Flood / flash flood,0,0,56,8,8,56
+Western,31,Farah,3101,Farah,01/03/18,Flood / flash flood,0,0,1050,122,0,31
+Eastern,13,Kunar,1314,Nurgal,03/03/18,Flood / flash flood,0,0,14,2,0,2
+Western,21,Ghor,2108,Lal Wa Sarjangal,05/03/18,Flood / flash flood,0,0,14,2,0,2
+Western,29,Badghis,2901,Qala-e-Naw,09/03/18,Landslide / mudflow,0,0,6,1,1,0
+Eastern,13,Kunar,1306,Shigal Wa Sheltan,10/03/18,Flood / flash flood,0,3,21,3,2,1
+Western,21,Ghor,2101,Chaghcharan,10/03/18,Drought,0,0,196,28,0,0
+Western,29,Badghis,2901,Qala-e-Naw,15/03/18,Drought,0,0,70,12,0,0
+South Eastern,12,Paktya,1201,Gardez,19/03/18,Flood / flash flood,0,0,77,11,11,0
+Western,21,Ghor,2101,Chaghcharan,25/03/18,Drought,0,0,238,34,0,0
+Western,21,Ghor,2101,Chaghcharan,25/03/18,Drought,0,0,238,34,0,0
+Central Highland,10,Bamyan,1001,Bamyan,25/03/18,Flood / flash flood,0,0,7,1,0,1
+Central Highland,10,Bamyan,1001,Bamyan,25/03/18,Flood / flash flood,0,0,7,1,0,1
+Western,21,Ghor,2101,Chaghcharan,28/03/18,Drought,0,0,133,19,0,0
+Western,21,Ghor,2101,Chaghcharan,28/03/18,Drought,0,0,133,19,0,0
+Western,21,Ghor,2101,Chaghcharan,05/04/18,Drought,0,0,174,29,0,0
+Western,21,Ghor,2101,Chaghcharan,05/04/18,Drought,0,0,174,29,0,0
+Western,30,Hirat,3002,Injil,06/04/18,Drought,0,0,252,36,0,0
+Western,30,Hirat,3002,Injil,06/04/18,Drought,0,0,168,24,0,0
+Eastern,13,Kunar,1301,Asadabad,08/04/18,Flood / flash flood,0,0,16,2,0,2
+Eastern,13,Kunar,1303,Narang,08/04/18,Flood / flash flood,0,0,21,3,0,3
+Eastern,13,Kunar,1305,Marawara,08/04/18,Flood / flash flood,0,0,14,2,2,0
+North Eastern,15,Badakhshan,1502,Yaftal-e-Sufla,08/04/18,Flood / flash flood,0,0,35,5,0,5
+Eastern,13,Kunar,1302,Watapur,08/04/18,Flood / flash flood,0,0,14,2,1,1
+Eastern,13,Kunar,1314,Nurgal,08/04/18,Flood / flash flood,0,0,6,1,1,0
+Eastern,7,Laghman,703,Qarghayi,09/04/18,Flood / flash flood,0,0,44,5,2,3
+Capital,2,Kapisa,202,Nejrab,09/04/18,Flood / flash flood,0,0,182,26,26,0
+Western,21,Ghor,2106,Taywarah,09/04/18,Flood / flash flood,0,0,0,0,0,0
+Western,21,Ghor,2105,Shahrak,09/04/18,Flood / flash flood,0,0,0,0,0,0
+Western,21,Ghor,2105,Shahrak,09/04/18,Flood / flash flood,0,0,0,0,0,0
+Capital,2,Kapisa,205,Tagab,09/04/18,Flood / flash flood,0,0,98,14,13,1
+Capital,2,Kapisa,201,Mahmud-e-Raqi,09/04/18,Flood / flash flood,0,0,182,26,25,1
+Eastern,7,Laghman,701,Mehtarlam,09/04/18,Flood / flash flood,0,0,46,5,2,3
+Capital,2,Kapisa,203,Kohband,09/04/18,Flood / flash flood,0,0,91,13,13,0
+Capital,3,Parwan,307,Ghorband,15/04/18,Flood / flash flood,0,0,7,1,0,1
+Capital,3,Parwan,308,Koh-e-Safi,15/04/18,Flood / flash flood,0,0,63,9,9,0
+Western,29,Badghis,2902,Muqur,15/04/18,Flood / flash flood,0,0,0,0,0,0
+Capital,3,Parwan,301,Charikar,15/04/18,Flood / flash flood,0,0,42,6,4,2
+Capital,3,Parwan,304,Bagram,15/04/18,Flood / flash flood,0,0,28,4,3,1
+Western,30,Hirat,3002,Injil,16/04/18,Drought,0,0,35,5,0,0
+Western,30,Hirat,3002,Injil,16/04/18,Drought,0,0,280,40,0,0
+Western,30,Hirat,3008,Gulran,16/04/18,Flood / flash flood,0,0,0,0,0,0
+Western,30,Hirat,3002,Injil,16/04/18,Drought,0,0,1722,246,0,0
+Western,30,Hirat,3002,Injil,16/04/18,Drought,0,0,483,69,0,0
+Western,29,Badghis,2906,Balamurghab,17/04/18,Flood / flash flood,0,0,0,0,0,0
+Western,30,Hirat,3016,Chisht-e-Sharif,17/04/18,Flood / flash flood,0,0,0,0,0,0
+Western,29,Badghis,2906,Balamurghab,17/04/18,Flood / flash flood,0,0,0,0,0,0
+Eastern,13,Kunar,1304,Sarkani,19/04/18,Flood / flash flood,0,0,7,1,0,1
+Western,29,Badghis,2901,Qala-e-Naw,19/04/18,Drought,0,0,21,3,0,0
+Eastern,13,Kunar,1306,Shigal Wa Sheltan,19/04/18,Flood / flash flood,0,0,28,4,4,0
+Western,29,Badghis,2901,Qala-e-Naw,19/04/18,Drought,0,0,74,15,0,0
+Western,21,Ghor,2101,Chaghcharan,19/04/18,Drought,0,0,287,41,0,0
+Eastern,13,Kunar,1314,Nurgal,19/04/18,Flood / flash flood,0,1,56,8,3,5
+Western,21,Ghor,2101,Chaghcharan,19/04/18,Drought,0,0,287,41,0,0
+Eastern,7,Laghman,702,Alishang,20/04/18,Flood / flash flood,0,0,17,3,3,0
+Western,30,Hirat,3002,Injil,20/04/18,Drought,0,0,105,15,0,0
+Eastern,7,Laghman,704,Alingar,20/04/18,Flood / flash flood,0,0,89,18,18,0
+Eastern,7,Laghman,704,Alingar,20/04/18,Flood / flash flood,0,0,45,8,8,0
+Eastern,7,Laghman,703,Qarghayi,20/04/18,Flood / flash flood,0,0,22,3,3,0
+Western,30,Hirat,3002,Injil,20/04/18,Drought,0,0,14,2,0,0
+Eastern,7,Laghman,701,Mehtarlam,20/04/18,Flood / flash flood,0,0,79,12,5,7
+Western,30,Hirat,3002,Injil,20/04/18,Drought,0,0,1211,173,0,0
+Eastern,7,Laghman,701,Mehtarlam,20/04/18,Flood / flash flood,0,0,86,11,3,8
+Western,30,Hirat,3002,Injil,20/04/18,Drought,0,0,14,2,0,0
+Western,30,Hirat,3002,Injil,20/04/18,Drought,0,0,1876,268,0,0
+Eastern,6,Nangarhar,622,Durbaba,21/04/18,Flood / flash flood,0,0,37,5,5,0
+Eastern,6,Nangarhar,622,Durbaba,21/04/18,Flood / flash flood,0,0,39,5,5,0
+Eastern,6,Nangarhar,622,Durbaba,21/04/18,Flood / flash flood,0,0,30,4,4,0
+Eastern,6,Nangarhar,622,Durbaba,21/04/18,Flood / flash flood,0,0,12,2,2,0
+Western,30,Hirat,3002,Injil,25/04/18,Drought,0,0,245,35,0,0
+Western,30,Hirat,3002,Injil,25/04/18,Drought,0,0,700,100,0,0
+Western,30,Hirat,3002,Injil,25/04/18,Drought,0,0,42,6,0,0
+Western,30,Hirat,3002,Injil,25/04/18,Drought,0,0,35,5,0,0
+Western,30,Hirat,3002,Injil,25/04/18,Drought,0,0,315,45,0,0
+Western,30,Hirat,3002,Injil,25/04/18,Drought,0,0,140,20,0,0
+Western,30,Hirat,3002,Injil,25/04/18,Drought,0,0,77,11,0,0
+Western,30,Hirat,3002,Injil,25/04/18,Drought,0,0,28,4,0,0
+Western,30,Hirat,3002,Injil,25/04/18,Drought,0,0,49,7,0,0
+Western,30,Hirat,3002,Injil,25/04/18,Drought,0,0,294,42,0,0
+Western,30,Hirat,3002,Injil,25/04/18,Drought,0,0,1827,261,0,0
+Western,30,Hirat,3002,Injil,25/04/18,Drought,0,0,189,27,0,0
+North Eastern,16,Takhar,1610,Chahab,25/04/18,Flood / flash flood,3,0,1309,187,69,17
+North Eastern,15,Badakhshan,1501,Fayzabad,25/04/18,Flood / flash flood,2,0,476,68,0,68
+Western,30,Hirat,3002,Injil,25/04/18,Drought,0,0,3150,450,0,0
+Western,30,Hirat,3002,Injil,25/04/18,Drought,0,0,4410,630,0,0
+Western,30,Hirat,3002,Injil,25/04/18,Drought,0,0,378,54,0,0
+Western,30,Hirat,3002,Injil,25/04/18,Drought,0,0,161,23,0,0
+Western,21,Ghor,2101,Chaghcharan,28/04/18,Drought,0,0,192,32,0,0
+Eastern,13,Kunar,1301,Asadabad,29/04/18,Flood / flash flood,0,0,17,2,2,0
+Western,29,Badghis,2901,Qala-e-Naw,01/05/18,Drought,0,0,266,43,0,0
+Western,21,Ghor,2101,Chaghcharan,05/05/18,Drought,0,0,175,26,0,0
+Central Highland,10,Bamyan,1001,Bamyan,06/05/18,Flood / flash flood,0,0,28,4,4,0
+North Eastern,9,Baghlan,901,Pul-e-Khumri,08/05/18,Flood / flash flood,0,0,1813,259,126,133
+North Eastern,9,Baghlan,910,Burka,08/05/18,Flood / flash flood,0,0,70,10,10,0
+North Eastern,9,Baghlan,909,Khwajahejran,08/05/18,Flood / flash flood,0,0,119,17,15,2
+North Eastern,9,Baghlan,912,Dehsalah,08/05/18,Flood / flash flood,0,0,140,20,15,5
+Eastern,14,Nuristan,1405,Wama,08/05/18,Flood / flash flood,0,0,49,7,7,0
+Central Highland,10,Bamyan,1001,Bamyan,08/05/18,Flood / flash flood,0,0,7,1,0,1
+North Eastern,9,Baghlan,901,Pul-e-Khumri,08/05/18,Flood / flash flood,0,0,1449,207,131,76
+Eastern,14,Nuristan,1401,Poruns,08/05/18,Flood / flash flood,0,0,105,15,7,8
+North Eastern,9,Baghlan,904,Doshi,08/05/18,Flood / flash flood,0,0,357,51,39,12
+North Eastern,9,Baghlan,902,Baghlan-e-Jadid,08/05/18,Flood / flash flood,0,0,420,60,23,37
+Central Highland,10,Bamyan,1001,Bamyan,08/05/18,Flood / flash flood,0,0,7,1,1,0
+North Eastern,9,Baghlan,911,Pul-e- Hesar,08/05/18,Flood / flash flood,0,0,49,7,6,1
+North Eastern,9,Baghlan,905,Nahrin,08/05/18,Flood / flash flood,0,0,434,62,26,36
+North Eastern,15,Badakhshan,1512,Baharak,09/05/18,Earthquake,0,0,63,9,0,9
+North Eastern,9,Baghlan,901,Pul-e-Khumri,09/05/18,Earthquake,0,0,21,3,0,3
+North Eastern,15,Badakhshan,1501,Fayzabad,09/05/18,Earthquake,0,0,35,5,0,5
+North Eastern,15,Badakhshan,1513,Shuhada,09/05/18,Earthquake,0,0,133,19,18,1
+North Eastern,15,Badakhshan,1504,Arghanjkhwa,09/05/18,Earthquake,0,0,168,24,11,13
+North Eastern,15,Badakhshan,1503,Argo,09/05/18,Flood / flash flood,0,0,98,14,0,14
+North Eastern,15,Badakhshan,1509,Teshkan,09/05/18,Earthquake,0,0,455,65,65,0
+North Eastern,15,Badakhshan,1502,Yaftal-e-Sufla,09/05/18,Earthquake,0,0,882,126,81,45
+North Eastern,15,Badakhshan,1502,Yaftal-e-Sufla,09/05/18,Flood / flash flood,0,0,308,44,0,44
+North Eastern,16,Takhar,1616,Warsaj,09/05/18,Earthquake,0,6,1491,213,163,50
+North Eastern,16,Takhar,1607,Farkhar,09/05/18,Earthquake,0,1,567,81,60,21
+North Eastern,16,Takhar,1605,Chal,09/05/18,Earthquake,4,0,532,76,35,37
+North Eastern,16,Takhar,1606,Namakab,09/05/18,Earthquake,1,3,749,107,24,79
+North Eastern,15,Badakhshan,1518,Keshem,09/05/18,Earthquake,0,0,98,14,1,14
+North Eastern,15,Badakhshan,1521,Jorm,09/05/18,Earthquake,0,0,175,25,25,0
+North Eastern,15,Badakhshan,1503,Argo,09/05/18,Earthquake,0,0,28,4,0,4
+North Eastern,15,Badakhshan,1527,Zebak,09/05/18,Earthquake,0,0,140,20,18,2
+Eastern,6,Nangarhar,608,Kuzkunar,11/05/18,Flood / flash flood,0,0,16,2,2,0
+Eastern,6,Nangarhar,605,Chaparhar,11/05/18,Flood / flash flood,0,0,33,7,0,7
+Eastern,6,Nangarhar,601,Jalalabad,11/05/18,Flood / flash flood,0,0,51,6,4,2
+Eastern,6,Nangarhar,612,Pachieragam,11/05/18,Flood / flash flood,0,0,227,26,26,0
+Eastern,6,Nangarhar,602,Behsud,11/05/18,Flood / flash flood,0,0,23,2,0,2
+Eastern,6,Nangarhar,601,Jalalabad,11/05/18,Flood / flash flood,0,0,39,4,4,0
+Eastern,6,Nangarhar,601,Jalalabad,11/05/18,Flood / flash flood,0,0,40,5,5,0
+North Eastern,16,Takhar,1601,Taloqan,12/05/18,Flood / flash flood,0,3,77,11,11,0
+Western,21,Ghor,2101,Chaghcharan,12/05/18,Flood / flash flood,0,0,194,30,0,0
+Western,21,Ghor,2102,Charsadra,12/05/18,Flood / flash flood,0,0,0,0,0,0
+Western,21,Ghor,2109,Tolak,12/05/18,Flood / flash flood,0,0,0,0,0,0
+Eastern,7,Laghman,702,Alishang,12/05/18,Flood / flash flood,0,0,105,15,8,7
+Western,21,Ghor,2101,Chaghcharan,12/05/18,Flood / flash flood,0,0,0,0,0,0
+North Eastern,16,Takhar,1605,Chal,13/05/18,Flood / flash flood,5,0,602,86,44,42
+Western,29,Badghis,2902,Muqur,13/05/18,Flood / flash flood,1,0,273,39,35,4
+North Eastern,16,Takhar,1604,Bangi,13/05/18,Flood / flash flood,3,3,196,28,20,2
+North Eastern,16,Takhar,1601,Taloqan,13/05/18,Flood / flash flood,0,1,105,15,7,7
+Eastern,13,Kunar,1305,Marawara,13/05/18,Flood / flash flood,0,0,77,11,10,1
+Eastern,13,Kunar,1302,Watapur,13/05/18,Flood / flash flood,0,0,21,3,3,0
+Eastern,13,Kunar,1301,Asadabad,13/05/18,Flood / flash flood,0,0,161,23,23,0
+Eastern,13,Kunar,1301,Asadabad,13/05/18,Flood / flash flood,0,0,259,37,28,9
+Eastern,13,Kunar,1315,Nari,13/05/18,Flood / flash flood,0,0,21,3,3,0
+Eastern,13,Kunar,1309,Khaskunar,13/05/18,Flood / flash flood,0,0,21,3,3,0
+Capital,1,Kabul,103,Shakardara,13/05/18,Flood / flash flood,0,0,147,21,14,7
+Western,29,Badghis,2902,Muqur,14/05/18,Flood / flash flood,18,0,13489,1927,1327,600
+Western,29,Badghis,2903,Abkamari,14/05/18,Flood / flash flood,0,0,2555,365,267,98
+Capital,3,Parwan,301,Charikar,14/05/18,Flood / flash flood,0,0,56,8,6,2
+Capital,3,Parwan,309,Shekhali,14/05/18,Flood / flash flood,0,0,35,5,5,0
+Western,29,Badghis,2903,Abkamari,14/05/18,Flood / flash flood,0,0,917,131,131,7
+Western,29,Badghis,2902,Muqur,14/05/18,Flood / flash flood,2,0,5411,773,734,39
+Capital,3,Parwan,308,Koh-e-Safi,14/05/18,Flood / flash flood,0,0,56,8,8,0
+Capital,3,Parwan,306,Salang,14/05/18,Flood / flash flood,0,0,35,5,2,3
+Capital,3,Parwan,307,Ghorband,14/05/18,Flood / flash flood,0,0,28,4,4,0
+Western,30,Hirat,3008,Gulran,14/05/18,Flood / flash flood,0,0,980,140,40,0
+Northern,19,Samangan,1901,Aybak,14/05/18,Flood / flash flood,8,0,1218,174,0,0
+Capital,3,Parwan,303,Shinwari,14/05/18,Flood / flash flood,0,0,84,12,12,0
+Western,29,Badghis,2906,Balamurghab,14/05/18,Flood / flash flood,1,0,0,0,0,0
+Northern,19,Samangan,1906,Khuram Wa Sarbagh,14/05/18,Flood / flash flood,0,0,0,0,0,0
+Western,30,Hirat,3013,Kushk-e-Kohna,15/05/18,Flood / flash flood,0,0,0,0,0,0
+Eastern,14,Nuristan,1405,Wama,15/05/18,Flood / flash flood,0,0,63,9,9,0
+Western,29,Badghis,2901,Qala-e-Naw,15/05/18,Drought,0,0,530,97,0,0
+Northern,20,Sar-e-Pul,2001,Sar-e-Pul,15/05/18,Flood / flash flood,0,0,147,21,0,0
+Eastern,14,Nuristan,1406,Waygal,15/05/18,Flood / flash flood,0,0,147,21,9,12
+Eastern,14,Nuristan,1401,Poruns,15/05/18,Flood / flash flood,0,0,238,34,18,16
+Western,30,Hirat,3007,Karukh,15/05/18,Flood / flash flood,0,0,0,0,0,0
+Western,30,Hirat,3003,Kushk,15/05/18,Flood / flash flood,0,0,0,0,0,0
+North Eastern,17,Kunduz,1701,Kunduz,16/05/18,Flood / flash flood,0,0,112,16,0,16
+North Eastern,17,Kunduz,1701,Kunduz,16/05/18,Flood / flash flood,0,0,231,33,33,0
+North Eastern,17,Kunduz,1706,Khanabad,16/05/18,Flood / flash flood,0,0,119,17,0,17
+North Eastern,17,Kunduz,1707,Dasht-e-Archi,16/05/18,Flood / flash flood,0,0,0,0,0,0
+North Eastern,17,Kunduz,1702,Emamsaheb,16/05/18,Flood / flash flood,0,0,231,33,0,33
+North Eastern,17,Kunduz,1702,Emamsaheb,16/05/18,Flood / flash flood,0,0,350,50,0,50
+Northern,18,Balkh,1809,Khulm,16/05/18,Flood / flash flood,0,0,280,40,38,2
+Northern,19,Samangan,1906,Khuram Wa Sarbagh,16/05/18,Flood / flash flood,0,0,0,0,0,0
+Northern,18,Balkh,1814,Sholgareh,16/05/18,Flood / flash flood,0,0,0,119,0,0
+Northern,19,Samangan,1901,Aybak,16/05/18,Flood / flash flood,0,0,0,0,0,0
+North Eastern,16,Takhar,1609,Rostaq,17/05/18,Landslide / mudflow,1,0,175,25,8,17
+Northern,20,Sar-e-Pul,2001,Sar-e-Pul,17/05/18,Flood / flash flood,0,0,4179,597,378,108
+Northern,18,Balkh,1809,Khulm,18/05/18,Flood / flash flood,0,0,2541,363,22,341
+Northern,18,Balkh,1814,Sholgareh,18/05/18,Flood / flash flood,0,0,301,43,43,0
+Western,21,Ghor,2101,Chaghcharan,18/05/18,Drought,0,0,222,37,0,0
+North Eastern,16,Takhar,1604,Bangi,18/05/18,Flood / flash flood,0,0,0,0,0,0
+Northern,27,Jawzjan,2701,Shiberghan,18/05/18,Flood / flash flood,0,0,833,119,49,70
+Northern,27,Jawzjan,2705,Fayzabad,18/05/18,Flood / flash flood,0,0,1687,241,0,241
+Northern,27,Jawzjan,2705,Fayzabad,18/05/18,Flood / flash flood,0,0,469,67,0,67
+Central Highland,10,Bamyan,1006,Kahmard,19/05/18,Flood / flash flood,0,0,35,5,5,0
+Central Highland,10,Bamyan,1006,Kahmard,19/05/18,Flood / flash flood,0,0,196,28,24,4
+Northern,19,Samangan,1901,Aybak,19/05/18,Flood / flash flood,0,0,2058,294,230,64
+Central Highland,10,Bamyan,1006,Kahmard,19/05/18,Flood / flash flood,0,0,35,5,5,0
+Central Highland,10,Bamyan,1006,Kahmard,19/05/18,Flood / flash flood,0,0,14,2,2,0
+Central Highland,10,Bamyan,1006,Kahmard,19/05/18,Flood / flash flood,0,0,7,1,1,0
+Central Highland,10,Bamyan,1006,Kahmard,19/05/18,Flood / flash flood,0,0,56,8,8,0
+Northern,18,Balkh,1814,Sholgareh,21/05/18,Flood / flash flood,0,0,469,67,66,1
+Northern,20,Sar-e-Pul,2001,Sar-e-Pul,22/05/18,Flood / flash flood,0,0,0,0,0,0
+Northern,20,Sar-e-Pul,2002,Sayad,22/05/18,Flood / flash flood,0,0,875,125,0,0
+Northern,18,Balkh,1816,Zari,22/05/18,Flood / flash flood,0,0,567,81,81,0
+Western,21,Ghor,2101,Chaghcharan,23/05/18,Drought,0,0,174,29,0,0
+Western,21,Ghor,2101,Chaghcharan,23/05/18,Drought,0,0,174,29,0,0
+North Eastern,15,Badakhshan,1502,Yaftal-e-Sufla,24/05/18,Flood / flash flood,0,0,0,0,0,0
+North Eastern,16,Takhar,1610,Chahab,24/05/18,Flood / flash flood,0,0,0,0,0,0
+North Eastern,15,Badakhshan,1501,Fayzabad,24/05/18,Flood / flash flood,0,0,735,105,0,0
+North Eastern,15,Badakhshan,1503,Argo,24/05/18,Flood / flash flood,0,0,0,0,0,0
+North Eastern,15,Badakhshan,1501,Fayzabad,26/05/18,Flood / flash flood,0,0,273,39,0,39
+North Eastern,16,Takhar,1609,Rostaq,27/05/18,Landslide / mudflow,0,0,119,17,0,17
+Western,21,Ghor,2101,Chaghcharan,01/06/18,Drought,0,0,305,45,0,0
+Eastern,6,Nangarhar,607,Kama,06/06/18,Flood / flash flood,0,0,1666,238,238,0
+Eastern,13,Kunar,1308,Chawkay,07/06/18,Flood / flash flood,0,0,147,21,21,0
+Northern,18,Balkh,1809,Khulm,10/06/18,Flood / flash flood,0,0,231,33,33,0
+Northern,18,Balkh,1814,Sholgareh,14/06/18,Flood / flash flood,0,0,161,23,23,0
+Western,21,Ghor,2101,Chaghcharan,15/06/18,Drought,0,0,260,40,0,0
+Eastern,13,Kunar,1314,Nurgal,17/06/18,Flood / flash flood,0,0,154,22,20,2
+Western,29,Badghis,2901,Qala-e-Naw,20/06/18,Drought,0,0,875,125,0,0
+Western,29,Badghis,2901,Qala-e-Naw,20/06/18,Drought,0,0,214,39,0,0
+Western,21,Ghor,2101,Chaghcharan,22/06/18,Drought,0,0,330,48,0,0
+Western,29,Badghis,2902,Muqur,25/06/18,Drought,0,0,0,0,0,0
+Southern,23,Uruzgan,2301,Tirinkot,30/06/18,Drought,0,0,0,0,0,0
+Capital,8,Panjsher,805,Khenj (Hese- Awal),12/07/18,Landslide / mudflow,0,0,917,131,0,131
+Western,21,Ghor,2101,Chaghcharan,22/07/18,Drought,0,0,322,46,0,0
+Western,30,Hirat,3002,Injil,43215,Drought,0,0,33610,4801,0,0
