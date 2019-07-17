@@ -1,2 +1,5 @@
 # Regression-Tasks
-An implementation of real world machine learning regression problems using Python. We analyze energy consumption and natural disaster datasets
+An implementation of real world machine learning regression problems using Python. 
+
+In this folder both linear and logistic regressions task are tackled. Some of the projects include, analysis breast cancer data, .
+
